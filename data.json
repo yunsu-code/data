@@ -1,0 +1,148 @@
+{
+    "status": "ok",
+    "status_message": "Query was successful",
+    "data": {
+        "count": 1,
+        "number": 1,
+        "mainIntro" :{
+            "smallTitle":"I'M LIKE THIS",
+            "bigTitle1":"INTERACTIVE",
+            "bigTitle2":"PUBLISHER & DEVELOPER",
+            "sub1":"Are you curious about me?",
+            "sub2":"Please look at my portfolio carefully.",
+            "infoText":"안녕하세요. 변화와 성장을 거듭하고자 노력하는 신입 퍼블리셔 신윤수입니다. 꾸준한 노력만이 살길이라 믿기에 항상 새로운 것을 습득하기위해 노력하는 사람이 되고자 합니다. 노력을 바탕으로 업무에 보탬이 되는 구성원이 되겠습니다.",
+            "link": "/about" 
+        },
+        "main" :[
+            {
+                "id": "part1",
+                "title": "WELLCOME TO MY PORT"
+            },
+            {
+                "id": "part2",
+                "title": "REACT SITE"
+            },
+            {
+                "id": "part3",
+                "title":"Hello, my name is Sin Yunsu, and I am preparing a frontend developer. Welcome to my portfolio site. This site is made of react and contains my passion. I hope you enjoy it. Thank you very much indeed."
+            }
+        ],
+        "project" :[
+            {   
+                "id" : "proj1",
+                "smallTitle":"PROJECT 1",
+                "bigTitle":"HINCE RENEWAL",
+                "sub":"힌스 웹사이트 리뉴얼 제작",
+                "topViewHeader":"hince.com",
+                "mediaInfo":"Web pc (min-width 1200px)",
+                "LaunehInfo":"May . 2020",
+                "infoText":"코스메틱 브랜드 힌스의 웹사이트 리뉴얼 프로젝트입니다. 브랜드가 추구하는 페미닌한 분위기와 주연령대를 분석하여 리뉴얼 하였습니다. 최소 해상도를 고려하여 1200px로 제작 하였습니다.",
+                "link": "http://kws04394.dothome.co.kr/hince/" 
+            },
+            {
+                "id" : "proj2",
+                "smallTitle":"PROJECT 2",
+                "bigTitle":"GENTLEMONSTER",
+                "sub":"젠틀몬스터 반응형 웹사이트 코딩",
+                "topViewHeader":"gentlemonster.com",
+                "mediaInfo":"Moblie, Tablet, Web pc",
+                "LaunehInfo":"July . 2020",
+                "infoText":"HTML, CSS를 이용하여 제작한 젠틀몬스터 반응형 웹사이트로 미디어쿼리를 이용하여 모바일, 테블릿, 데스크탑에서도 유연하게 작동하도록 코딩하였습니다.",
+                "link": "http://kws04394.dothome.co.kr/gentlemonster/"
+            },
+            {
+                "id" : "proj3",
+                "smallTitle":"PROJECT 3",
+                "bigTitle":"WEBSTANDARD",
+                "sub":"웹표준 사이트",
+                "topViewHeader":"webstandard.com",
+                "mediaInfo":"Web pc",
+                "LaunehInfo":"Sep . 2020",
+                "infoText":"웹 표준을 가장 준수하여 만든 사이트로 slick.js를 이용한 슬라이드와 lightbox를 이용해 모달창을 제작하였습니다. W3C 호환성 검사를 통과한 사이트 입니다.",
+                "link": "http://kws04394.dothome.co.kr/webstandard/"                
+            },
+            {
+                "id" : "proj4",
+                "smallTitle":"PROJECT 4",
+                "bigTitle":"WEB RESPONSIVE",
+                "sub":"반응형 웹표준 사이트",
+                "topViewHeader":"webresponsive.com",
+                "mediaInfo":"Moblie, Tablet, Web pc",
+                "LaunehInfo":"Sep . 2020",
+                "infoText":"웹 표준을 가장 준수하여 만든 사이트로 slick.js를 이용한 슬라이드와 lightbox를 이용해 모달창을 제작하였습니다. W3C 호환성 검사를 통과한 사이트 입니다.",
+                "link": "http://kws04394.dothome.co.kr/webresponsive/"                
+            },
+            {
+                "id" : "proj5",
+                "smallTitle":"PROJECT 5",
+                "bigTitle":"HORIZONTAL PORT",
+                "sub":"가로 스크롤 포트폴리오 사이트",
+                "topViewHeader":"port.com",
+                "mediaInfo":"Moblie, Tablet, Web pc",
+                "LaunehInfo":"Dec . 2020",
+                "infoText":"Vanila Javascript로 가로스크롤페이지를 구성하였고 Javascript플러그인인 GSAP로 애니메이션 효과를 주었습니다.",
+                "link": "http://kws04394.dothome.co.kr/port/"                
+            }
+        ],
+        "css" :[
+            {
+                "title":"01 LOADING",
+                "infoText":"preserve-3d와 translateZ를 이용해 3D효과를 주었고 keyframes를 사용하여 여러각도로 움직이게 한 애니메이션입니다.",
+                "iframe":"http://kws04394.dothome.co.kr/css-ani/loding/"
+                
+            },
+            {
+                "title":"02 LINE",
+                "infoText":"keyframes와 rotate를 활용한 애니메이션입니다.",
+                "iframe":"http://kws04394.dothome.co.kr/css-ani/line/"
+            },
+            {
+                "title":"03 CIRCLE LINE",
+                "infoText":" SVG와 anime.js를 이용한 애니메이션입니다.",
+                "iframe":"http://kws04394.dothome.co.kr/css-ani/circle-line/"
+            },
+            {
+                "title":"04 AIRPLANE",
+                "infoText":"keyframes와 rotate를 활용한 애니메이션입니다.",
+                "iframe":"http://kws04394.dothome.co.kr/css-ani/air/"
+            },
+            {
+                "title":"05 WAVE",
+                "infoText":"svg,path태그와 keyframes을 활용한 애니메이션입니다.",
+                "iframe":"http://kws04394.dothome.co.kr/css-ani/wave/"
+            },
+            {
+                "title":"06 TEXT",
+                "infoText":"keyframes와 rotate를 활용한 애니메이션입니다.",
+                "iframe":"http://kws04394.dothome.co.kr/css-ani/text/"
+            }
+        ],
+        "script" :[
+            {
+                "title":"01  PARALLAX",
+                "iframe":"http://kws04394.dothome.co.kr/parallax/parallax1/"
+            },
+            {
+                "title":"02  MOUSE EFFECT",
+                "iframe":"http://kws04394.dothome.co.kr/mouseEffect/"
+            },
+            {
+                "title":"03  HOVER EFFECT",
+                "iframe":"http://kws04394.dothome.co.kr/fullscreen-backgrondHover/"
+            },
+            {
+                "title":"01  TO DO LIST",
+                "iframe":"http://kws04394.dothome.co.kr/clock/"
+            },
+            {
+                "title":"02  TIC TAC TOE",
+                "iframe":"http://kws04394.dothome.co.kr/js-games/ttt/"
+            },
+            {
+                "title":"03  LOTTO LOTTERY",
+                "iframe":"http://kws04394.dothome.co.kr/js-games/lotto/"
+            }
+        ]
+        
+}
+}
